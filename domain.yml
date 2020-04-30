@@ -66,12 +66,12 @@ responses:
   utter_ask_transfer_form_PERSON:
   - text: Who do you want to transfer money to?
   utter_goodbye:
-  - text: Bye
+  - text: Bye, are you satisfied with the conversions?
     buttons:
-    - title: cheap
-      payload: cheap
-    - title: expensive
-      payload: expensive
+    - title: yes
+      payload: yes
+    - title: no
+      payload: no
   utter_greet:
   - text: Hi, how can I help you?
   utter_noworries:
