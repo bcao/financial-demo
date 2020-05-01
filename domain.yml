@@ -154,6 +154,8 @@ responses:
   utter_changed_account_balance:
   - text: 'Your balance was ${init_account_balance} and is now ${account_balance}
       after the transfer'
+  utter_ask_date:
+    - text: When will you want to take off?
 actions:
 - action_account_balance
 - utter_ask_transfer_form_amount-of-money
