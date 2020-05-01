@@ -200,3 +200,9 @@
 - I want to pay Bill
 - pay my friend
 - transfer money
+
+## intent:ask_for_leave
+- I want to take some days off
+- I'd like to take leave
+- I want to ask for leave
+- I want to ask for leave tomorrow 

@@ -18,6 +18,7 @@ intents:
 - check_balance
 - check_earnings:
     use_entities: []
+- ask_for_leave
 entities:
 - amount-of-money
 - payment_amount
